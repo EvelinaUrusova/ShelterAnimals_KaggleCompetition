@@ -11,4 +11,4 @@ Python, pandas, numpy, sklearn.pipeline, seaborn, matplotlib, sklearn.impute,  s
 F1 Score составил 0,67 на тестовых данных, что являлось одним из наиболее высоких результатов среди участников.
 
 ## Ссылка на проект:
-[View _Shelter Animals_Kaggle_Competition Notebook](./)
+[View _Shelter Animals_Kaggle_Competition Notebook](./ShelterAnimals_KaggleCompetition_UrusovaEV.ipynb)
